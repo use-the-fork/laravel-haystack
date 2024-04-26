@@ -68,7 +68,7 @@ Laravel Haystack aims to solve this by storing the job chain in the database and
 You can install the package with Composer. **Laravel Haystack Requires Laravel 8+ and PHP 8.1**
 
 ```bash
-composer require sammyjo20/laravel-haystack
+composer require use-the-fork/laravel-haystack
 ```
 
 Next, just run the installation command!
